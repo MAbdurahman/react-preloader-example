@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-preloader-example/static/css/main.4549f9ac.chunk.css",
+    "main.js": "/react-preloader-example/static/js/main.8773b38d.chunk.js",
+    "main.js.map": "/react-preloader-example/static/js/main.8773b38d.chunk.js.map",
+    "runtime-main.js": "/react-preloader-example/static/js/runtime-main.234c0c2c.js",
+    "runtime-main.js.map": "/react-preloader-example/static/js/runtime-main.234c0c2c.js.map",
+    "static/js/2.f7a34602.chunk.js": "/react-preloader-example/static/js/2.f7a34602.chunk.js",
+    "static/js/2.f7a34602.chunk.js.map": "/react-preloader-example/static/js/2.f7a34602.chunk.js.map",
+    "static/js/3.141bb1f4.chunk.js": "/react-preloader-example/static/js/3.141bb1f4.chunk.js",
+    "static/js/3.141bb1f4.chunk.js.map": "/react-preloader-example/static/js/3.141bb1f4.chunk.js.map",
+    "index.html": "/react-preloader-example/index.html",
+    "static/css/main.4549f9ac.chunk.css.map": "/react-preloader-example/static/css/main.4549f9ac.chunk.css.map",
+    "static/js/2.f7a34602.chunk.js.LICENSE.txt": "/react-preloader-example/static/js/2.f7a34602.chunk.js.LICENSE.txt",
+    "static/media/loading.4cad5022.gif": "/react-preloader-example/static/media/loading.4cad5022.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.234c0c2c.js",
+    "static/js/2.f7a34602.chunk.js",
+    "static/css/main.4549f9ac.chunk.css",
+    "static/js/main.8773b38d.chunk.js"
+  ]
+}
