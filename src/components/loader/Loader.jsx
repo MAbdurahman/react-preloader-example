@@ -1,9 +1,10 @@
 import React from 'react';
+import LoadingGif from '../../img/loader/loading.gif';
 
 function ShowDetail() {
 	return (
 		<div className='loader center'>
-			<i className='fa fa-cog fa-spin' />
+			<img src={LoadingGif} alt="Loading Gif"/>
 		</div>
 	);
 }
